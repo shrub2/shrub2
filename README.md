@@ -1,6 +1,7 @@
 ## Hi there, my name is Matas
 
 About me:
+- 🪫 I have a Bachelor's in Electronics Engineering
 - ✍️ I'm interested in embedded systems and software engineering as a whole
 - 🌱 I’m currently learning more about low level programming (in C for now)
 - 📖 My current basic skills are in C, C++, Python and SQL
