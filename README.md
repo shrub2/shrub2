@@ -2,6 +2,6 @@
 
 About me:
 - 🌱 I’m currently exploring embedded systems, procedural generation and 3D rendering
-- 🔧 I enjoy building tools and small systems with Python and C++, and occasionally working close to the metal
-- 📦 I’m maintaining a procurement database at a small company (FileMaker, Python, APIs)
+- 🔧 I enjoy building tools and small systems with Python and C++
+- 📊 Currently at work building an ETL for Balance of Payments statistics at Lithuania's central bank (Python, Airflow, Starburst, Iceberg, S3)
 - 🪫 I have a Bachelor's in Electronics Engineering
